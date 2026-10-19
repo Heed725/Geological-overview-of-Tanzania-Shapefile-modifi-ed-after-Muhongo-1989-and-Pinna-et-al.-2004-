@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.qgz~
+*.qgs~
+*.gpkg-wal
+*.gpkg-shm
