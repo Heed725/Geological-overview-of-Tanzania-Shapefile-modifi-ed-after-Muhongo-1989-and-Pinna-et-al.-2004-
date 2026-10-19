@@ -1,0 +1,16 @@
+﻿map_key,legend_label,hex_colour,era,reference_age
+alluvium,"Alluvials, clastic sediments",#fcf2b4,CENOZOIC,Recent–Quaternary
+volcanic,Volcanics,#f7de25,CENOZOIC,Recent–Paleogene
+ceno_sed,Marine and continental sediments,#fdd359,CENOZOIC,Neogene–Paleogene
+cretaceous,Marine sediments — Cretaceous,#f2f3b7,MESOZOIC–PALEOZOIC,Cretaceous
+jurassic,Marine sediments — Jurassic,#bfdeeb,MESOZOIC–PALEOZOIC,Jurassic
+karoo,Mostly terrestrial sediments of the Karoo Supergroup,#73bdbe,MESOZOIC–PALEOZOIC,Triassic–Upper Carboniferous
+bukoban,Mostly terrestrial sediments of the Bukoban System,#fed9a4,PROTEROZOIC,Neoproterozoic
+mozambique,Metamorphic rocks of the Mozambique Belt,#f9bf5f,PROTEROZOIC,Neoproterozoic
+karagwe,"Metasediments, metavolcanics of the Karagwe–Ankolean System",#f09f00,PROTEROZOIC,Mesoproterozoic
+ubendian,Metamorphic rocks of the Ubendian System,#f8b2ac,PROTEROZOIC,Paleoproterozoic
+usagaran,Metamorphic rocks of the Usagaran System,#f46185,PROTEROZOIC,Paleoproterozoic
+granitic,"Granitic terranes, undifferentiated",#c3506b,PROTEROZOIC / ARCHAEAN,Undifferentiated
+granite,Granites,#b42652,PROTEROZOIC / ARCHAEAN,Undifferentiated
+neoarchaean,"Metasediments, metavolcanics of the Nyanzian and Kavirondian Systems",#f2b2ca,ARCHAEAN,Neoarchaean
+mesoarchaean,Metamorphic rocks of the Tanzania Craton,#df5a99,ARCHAEAN,Meso–Paleoarchaean reference colour

@@ -1,0 +1,28 @@
+{
+  "layers": 20,
+  "main_table": "geology_natural",
+  "classes": 15,
+  "parts_by_class": {
+    "alluvium": 21,
+    "volcanic": 15,
+    "ceno_sed": 2,
+    "cretaceous": 4,
+    "jurassic": 9,
+    "karoo": 7,
+    "bukoban": 15,
+    "mozambique": 6,
+    "karagwe": 5,
+    "ubendian": 4,
+    "usagaran": 5,
+    "granitic": 17,
+    "granite": 5,
+    "neoarchaean": 34,
+    "mesoarchaean": 75
+  },
+  "layouts": 2,
+  "all_sources_portable": true,
+  "all_main_geometries_valid": true,
+  "checksum_manifest_verified": true,
+  "required_points_verified": 1,
+  "mask_coverage_verified": true
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "QGIS Reference Map Project"
+  short_description: "Turn reference maps into editable QGIS projects"
+  default_prompt: "Use $qgis-reference-map-project to build an editable QGIS map matching my reference colours, with real outlines and smooth geological contacts."

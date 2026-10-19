@@ -1,0 +1,25 @@
+{
+  "classes": 15,
+  "mainland_outline": "Real Natural Earth 1:10m Tanzania country boundary, with Natural Earth lakes removed; light 0.001 degree generalisation",
+  "internal_borders": "Shared generalisation 2.2 source pixels then 3 Chaikin passes; clipped to real outline",
+  "gap_square_degrees": 1.4418612397983205e-15,
+  "overlap_square_degrees": 0,
+  "all_geometries_valid": true,
+  "real_islands_preserved": 10,
+  "island_source": "geoBoundaries gbOpen TZA ADM0 2021, CC BY 4.0",
+  "edge_assignment": "Small source-to-real-outline gaps assigned nearest reference colour; not new survey classification",
+  "QGIS": "3.34.4-Prizren",
+  "dar_es_salaam_cretaceous_patch_restored": true,
+  "cretaceous_patch_count": 4,
+  "restored_patch_bounds": [
+    38.611111111111114,
+    -7.368421052631579,
+    39.0359477124183,
+    -6.907894736842105
+  ],
+  "modified_classes": [
+    "alluvium",
+    "volcanic",
+    "cretaceous"
+  ]
+}
